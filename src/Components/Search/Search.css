@@ -1,0 +1,12 @@
+.Stars{
+    position:absolute;
+    font-size: 30px;
+    margin-top:45px;
+    transform: translate(-146px,-49px);
+}
+.headings {
+    font-size: 17px;
+    font-weight: bolder;
+    color:#0d6efd;
+    transform: translate(-280px,-29px)
+ }
